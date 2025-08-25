@@ -1,5 +1,10 @@
 ## Hi there 👋
+I am Jatin, A CSE student who is enthusiastic about Technology and who loves to create projects that solve IRL problems and sometimes just for FUN.
 
+🔭 I’m currently working on an offline music player for windows.
+🌱 I’m currently learning React JS and after that plan to learn React Native.
+
+*Outside of tech, I am a Cinephile and really into various forms of music.*
 <!--
 **jatingow/JatinGOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
