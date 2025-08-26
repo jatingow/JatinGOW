@@ -4,7 +4,7 @@ I am Jatin, A CSE student who is enthusiastic about Technology and who loves to 
 - 🔭 I’m currently working on an offline music player for windows.
 - 🌱 I’m currently learning React JS and after that plan to learn React Native.
 
-*Outside of tech, I am a Cinephile and really into various forms of music.*
+*Outside of tech, I am a Cinephile and really into various genres of music.*
 <!--
 **jatingow/JatinGOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
