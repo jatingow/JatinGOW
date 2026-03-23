@@ -2,7 +2,7 @@
 I am Jatin, A CSE student who is enthusiastic about Technology and who loves to create projects that solve IRL problems and sometimes just for FUN.
 
 - 🔭 I’m currently working on an offline music player for windows.
-- 🌱 I’m currently learning React JS and after that plan to learn React Native.
+- 🌱 I’ve learned React JS and am now learning Next JS.
 
 *Outside of tech, I am a Cinephile and really into various genres of music.*
 <!--
@@ -10,7 +10,7 @@ I am Jatin, A CSE student who is enthusiastic about Technology and who loves to 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Music Player using Electron.js.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
