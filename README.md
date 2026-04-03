@@ -1,21 +1,24 @@
-## Hi there 👋
-I am Jatin, A CSE student who is enthusiastic about Technology and who loves to create projects that solve IRL problems and sometimes just for FUN.
+# Hi there, I'm Jatin! 👋
 
-- 🔭 I’m currently working on an offline music player for windows.
-- 🌱 I’ve learned React JS and am now learning Next JS.
+**Computer Science Student | Aspiring Full-Stack & AI Engineer**
 
-*Outside of tech, I am a Cinephile and really into various genres of music.*
-<!--
-**jatingow/JatinGOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building projects that solve real-world problems (and sometimes just for fun). When I'm not coding, you can find me analyzing films as a huge cinephile or exploring new music genres. 
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+* 🔭 **Currently building:** An offline music player for Windows & Linux using **Electron**.
+* 🌱 **Currently learning:** Deepening my knowledge in **Next.js** and exploring AI engineering concepts.
+* ⚔️ **Daily grind:** Crushing Data Structures & Algorithms on **LeetCode**.
+* 💬 **Ask me about:** Frontend development, React, or my favorite movie soundtracks!
 
-- 🔭 I’m currently working on a Music Player using Electron.js.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+### 💻 Tech Stack
+**Languages & Frameworks:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+
+**Web Basics & Tools:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+
+### 📂 Featured Projects
+* 🎵 **Offline Music Player** - A cross-platform desktop application built with Electron.
+* 🗺️ **Interactive Map App** - A web mapping application utilizing React and Leaflet.
+* 🌤️ **Weather Dashboard** - A dynamic weather tracking application built from the ground up with React.
+
+---
+⚡ *“Movies are like magic tricks.”* – Let's connect and talk tech or cinema!
