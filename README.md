@@ -16,9 +16,9 @@ I love building projects that solve real-world problems (and sometimes just for 
 **Web Basics & Tools:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
 
 ### 📂 Featured Projects
-* 🎵 **Offline Music Player** - A cross-platform desktop application built with Electron.
-* 🗺️ **Interactive Map App** - A web mapping application utilizing React and Leaflet.
-* 🌤️ **Weather Dashboard** - A dynamic weather tracking application built from the ground up with React.
+* **Offline Music Player** - A cross-platform desktop application built with Electron.
+* **Movie Recommendation** - A Movie recommendation webapp built with python and React.
+* **Weather Dashboard** - A dynamic weather tracking application built from the ground up with React.
 
 ---
 ⚡ *“Movies are like magic tricks.”* – Let's connect and talk tech or cinema!
