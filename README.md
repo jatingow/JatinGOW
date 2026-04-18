@@ -1,65 +1,60 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jatin!;CS+Engineering+Student;Full-Stack+Developer;DSA+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-# THE ARCHITECT
-<p><b>SYSTEM INITIATOR // FULL-STACK ARTISAN // AI INTEGRATOR</b></p>
+<div align="center">
+  <em>Ask me about Movies, Codes and Music.</em>
+</div>
 
+---
+
+### 🚀 About Me
+
+- ⚙️ Currently diving deep into **AI/ML**, **DBMS architectures**, and full-stack development.
+- 🔭 Building a **Offline Music Player** and refining a Python/Flask **Movie Recommender System**.
+- 🎮 When I'm not debugging, you can find me exploring *Berserk* lore or putting on *The Weeknd*.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages** <div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&theme=dark" alt="Languages" />
+  </a>
+</div>
+<br>
+
+**Frameworks & Libraries** <div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,flask&theme=dark" alt="Frameworks and Libraries" />
+  </a>
+</div>
+<br>
+
+**Databases, Tools & OS** <div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode,linux,fedora&theme=dark" alt="Tools and OS" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatingow&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=c9d1d9"alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingow&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakNum=c9d1d9&currStreakLabel=E50914&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
-### Hi, I'm forging the future. I'm an aspiring full-stack and AI engineer.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingow&layout=compact&hide_border=true&bg_color=0d1117&title_color=E50914&text_color=c9d1d9" alt="Top Languages" width="50%" />
+</div>
 
-Forging digital monoliths in the fires of React, JavaScript, and PostgreSQL. I build high-performance web systems and cross-platform applications with the precision of a master craftsman. Currently sharpening my algorithmic blade on LeetCode and laying the groundwork for intelligent AI integrations.
-
-<br>
-
-> **TRANSMISSION STATUS**
-> 
-> `LOCATION:`  SECTOR_BAREILLY_IN  
-> `MISSION: `  FULL_STACK_MASTERY_WITH_AI_INTEGRATION  
-> `STATUS:  `  🟢 ACTIVE_DUTY  
-
-<br>
-
-## THE ARSENAL
-`TOOLS OF THE TRADE`
-___
-
-| 01. CORE DOM / STYLING | 02. LOGIC & ARCHITECTURE | 03. DATABASES | 04. DEPLOYMENT & UI |
-| :--- | :--- | :--- | :--- |
-| `HTML5` `CSS3` | `JavaScript` `React.js` | `PostgreSQL` | `Vite` `Capacitor` |
-| `Tailwind` / `Glassmorphism` | `Electron` | `Node.js` (Learning) | `Android Studio` |
-
-<br>
-
-## FIELD OPERATIONS
-`LATEST DEPLOYMENTS`
-___
-
-### ❖ ATMOSPHERIC_ORACLE.EXE `[REACT // VITE // REST_API]`
-A high-performance weather utility. Fetches real-time meteorological data via the OpenWeatherMap API, featuring custom autocomplete search protocols and dynamic UI rendering.
-
-### ❖ CARTOGRAPHIC_ENGINE `[REACT // LEAFLET // CAPACITOR]`
-A robust routing and mapping application built with OpenStreetMap. Successfully bridged the gap between web and mobile by porting the architecture to a native Android deployment.
-
-### ❖ CINEMATIC_NEXUS `[FULL_STACK // UI_DESIGN]`
-A web-based movie recommendation platform. Engineered with a heavy emphasis on modern UI trends, heavily utilizing glassmorphism effects for a seamless, immersive user experience.
-
-### ❖ NEURAL_AUDIO_PROTOCOL `[ELECTRON // REACT]` *[IN DEVELOPMENT]*
-An offline desktop music player built for Windows and Linux environments. Currently laying the foundational architecture to fork and integrate open-source AI features for advanced audio manipulation.
-
-<br>
-
-## VITAL STATISTICS
-`CHRONICLE OF EFFORT`
-___
+---
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=151515" alt="Vital Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=151515&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" alt="Chronicle of Effort" />
-
+  <i>Let's connect and build something awesome.</i>
 </div>
