@@ -1,24 +1,65 @@
-# Hi there, I'm Jatin! 👋
+<div align="center">
 
-**Computer Science Student | Aspiring Full-Stack & AI Engineer**
+# THE ARCHITECT
+<p><b>SYSTEM INITIATOR // FULL-STACK ARTISAN // AI INTEGRATOR</b></p>
 
-I love building projects that solve real-world problems (and sometimes just for fun). When I'm not coding, you can find me analyzing films as a huge cinephile or exploring new music genres. 
+</div>
 
-### 🚀 What I'm Up To
-* 🔭 **Currently building:** An offline music player for Windows & Linux using **Electron**.
-* 🌱 **Currently learning:** Deepening my knowledge in **Next.js** and exploring AI engineering concepts.
-* ⚔️ **Daily grind:** Crushing Data Structures & Algorithms on **LeetCode**.
-* 💬 **Ask me about:** Frontend development, React, or my favorite movies!
+<br>
 
-### 💻 Tech Stack
-**Languages & Frameworks:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+### Hi, I'm forging the future. I'm an aspiring full-stack and AI engineer.
 
-**Web Basics & Tools:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+Forging digital monoliths in the fires of React, JavaScript, and PostgreSQL. I build high-performance web systems and cross-platform applications with the precision of a master craftsman. Currently sharpening my algorithmic blade on LeetCode and laying the groundwork for intelligent AI integrations.
 
-### 📂 Featured Projects
-* **Offline Music Player** - A cross-platform desktop application built with Electron.
-* **Movie Recommendation** - A Movie recommendation webapp built with python and React.
-* **Weather Dashboard** - A dynamic weather tracking application built from the ground up with React.
+<br>
 
----
-⚡ *“Movies are like magic tricks.”* – Let's connect and talk tech or cinema!
+> **TRANSMISSION STATUS**
+> 
+> `LOCATION:`  SECTOR_BAREILLY_IN  
+> `MISSION: `  FULL_STACK_MASTERY_WITH_AI_INTEGRATION  
+> `STATUS:  `  🟢 ACTIVE_DUTY  
+
+<br>
+
+## THE ARSENAL
+`TOOLS OF THE TRADE`
+___
+
+| 01. CORE DOM / STYLING | 02. LOGIC & ARCHITECTURE | 03. DATABASES | 04. DEPLOYMENT & UI |
+| :--- | :--- | :--- | :--- |
+| `HTML5` `CSS3` | `JavaScript` `React.js` | `PostgreSQL` | `Vite` `Capacitor` |
+| `Tailwind` / `Glassmorphism` | `Electron` | `Node.js` (Learning) | `Android Studio` |
+
+<br>
+
+## FIELD OPERATIONS
+`LATEST DEPLOYMENTS`
+___
+
+### ❖ ATMOSPHERIC_ORACLE.EXE `[REACT // VITE // REST_API]`
+A high-performance weather utility. Fetches real-time meteorological data via the OpenWeatherMap API, featuring custom autocomplete search protocols and dynamic UI rendering.
+
+### ❖ CARTOGRAPHIC_ENGINE `[REACT // LEAFLET // CAPACITOR]`
+A robust routing and mapping application built with OpenStreetMap. Successfully bridged the gap between web and mobile by porting the architecture to a native Android deployment.
+
+### ❖ CINEMATIC_NEXUS `[FULL_STACK // UI_DESIGN]`
+A web-based movie recommendation platform. Engineered with a heavy emphasis on modern UI trends, heavily utilizing glassmorphism effects for a seamless, immersive user experience.
+
+### ❖ NEURAL_AUDIO_PROTOCOL `[ELECTRON // REACT]` *[IN DEVELOPMENT]*
+An offline desktop music player built for Windows and Linux environments. Currently laying the foundational architecture to fork and integrate open-source AI features for advanced audio manipulation.
+
+<br>
+
+## VITAL STATISTICS
+`CHRONICLE OF EFFORT`
+___
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=151515" alt="Vital Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=151515&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" alt="Chronicle of Effort" />
+
+</div>
