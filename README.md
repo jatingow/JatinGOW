@@ -66,10 +66,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatingow&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914&text_color=c9d1d9"alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingow&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakNum=c9d1d9&currStreakLabel=E50914&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 </div>
----
 
 ## 🌟 Highlighted Areas (Projects Coming Soon)
 
