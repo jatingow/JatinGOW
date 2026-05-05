@@ -84,7 +84,7 @@ I’m working towards:
 
 <p align="center">
   <a href="mailto:jatinoffcial1305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-CCCCCC?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="www.linkedin.com/in/jatin-kumar-02388b349/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -97,8 +97,6 @@ I’m working towards:
   </a>
 -->
 </p>
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME&title=Visitors&left_color=&right_color=blue&left_text=Visitors&style=flat-square" alt="Visitors" />
