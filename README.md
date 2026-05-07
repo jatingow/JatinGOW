@@ -98,10 +98,6 @@ I’m working towards:
 -->
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME&title=Visitors&left_color=&right_color=blue&left_text=Visitors&style=flat-square" alt="Visitors" />
-</p>
-
 <!--
 Tips:
 - Replace YOUR_GITHUB_USERNAME, YOUR_EMAIL_HERE, YOUR_LINKEDIN, YOUR_DISCORD_ID, and YOUR_X_HANDLE.
