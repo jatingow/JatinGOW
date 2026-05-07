@@ -69,7 +69,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingow&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakNum=c9d1d9&currStreakLabel=E50914&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 </div>
 
-## 🌟 Highlighted Areas (Projects Coming Soon)
+## 🌟 Highlighted Projects (Coming Soon)
 
 I’m working towards:
 - 🎧 A music‑inspired web app (think playlists, moods, and The Weeknd themes).
