@@ -63,11 +63,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingow&hide_border=true&background=0d1117&ring=E50914&fire=E50914&currStreakNum=c9d1d9&currStreakLabel=E50914&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <!-- <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=jatingow&theme=tokyonight&hide_border=true"/> -->
+<img
+       src="https://commitpulse.vercel.app/api/streak?user=jatingow&theme=highcontrast&font=Inter"/>
+</p>
+
+---
 
 ## 🌟 Highlighted Projects (Coming Soon)
 
