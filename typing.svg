@@ -24,7 +24,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Hey 👋 I&#039;m Jatin Kumar
+            Hey I&#039;m Jatin Kumar
         </textPath>
     </text>
         <path id='path1'>
@@ -38,7 +38,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Full Stack Developer
+            Aspiring Full Stack Developer
         </textPath>
     </text>
 </svg>
